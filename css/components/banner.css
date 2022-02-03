@@ -1,0 +1,14 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+  color: white;
+}
+
+.banner .btn {
+  color: white;
+  background-color: #1CDD87;
+  padding: 15px 30px;
+  border-radius: 20px;
+  display: inline-block;
+}
